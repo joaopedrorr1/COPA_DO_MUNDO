@@ -6,7 +6,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Business\Business.csproj" />
+    <ProjectReference Include="..\Client\Client.csproj" />
+    <ProjectReference Include="..\CrossCutting\CrossCutting.csproj" />
     <ProjectReference Include="..\Entity\Entity.csproj" />
   </ItemGroup>
+
 
 </Project>

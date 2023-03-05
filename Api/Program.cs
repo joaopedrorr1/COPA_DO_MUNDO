@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace COPA_DO_MUNDO
+namespace Api
 {
     public class Program
     {
